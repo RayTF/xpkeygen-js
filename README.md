@@ -6,7 +6,7 @@ It's based on [This C++ Source Code](https://github.com/TheMCHK/WindowsXPKg) but
 
 This isn't written by me, i just mirrored the website and fixed the HTTPS errors that PasteHTML was giving.
 
-### You can access it right now by clicking here --> https://ipedrolb.github.io/xpkeygen-js
+### You can access it right now by clicking here --> https://raytf.github.io/xpkeygen-js
 ---
 ## HOW TO INSTALL
 
